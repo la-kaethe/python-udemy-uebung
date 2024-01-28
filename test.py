@@ -12,3 +12,5 @@ print('what to print')""")
 
 #Variant 3
 print("Day 1 - Python Print function\nThe function is declared like this:\n('what to print')")
+
+#man kann Zeichen escapen: damit bspw die Anführungszeichen bei "TEXT" mit abgedruckt werden und nicht nur TEXT, wird das so gemacht \"TEXT\"
